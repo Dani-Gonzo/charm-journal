@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Wayward Compass",
+        "description": "Whispers its location to the bearer whenever a map is open.",
+        "notches": 1
+    },
+    {
+        "name": "Gathering Swarm",
+        "description": "A swarm will follow the bearer and gather up any loose Geo.",
+        "notches": 1
+    },
+    {
+        "name": "Stalwart Shell",
+        "description": "When recovering from damage, the bearer will remain invulnerable for longer.",
+        "notches": 2
+    },
+    {
+        "name": "Soul Eater",
+        "description": "Greatly increases the amount of SOUL gained when striking an enemy with the nail.",
+        "notches": 4
+    },
+    {
+        "name": "Dashmaster",
+        "description": "The bearer will be able to dash more often as well as dash downwards.",
+        "notches": 2
+    },
+    {
+        "name": "Sprintmaster",
+        "description": "Increases the running speed of the bearer, allowing them to avoid damage or overtake rivals.",
+        "notches": 1
+    },
+    {
+        "name": "Grubsong",
+        "description": "Gain SOUL when taking damage.",
+        "notches": 1
+    },
+    {
+        "name": "Grubberfly's Elegy",
+        "description": "Imbues weapons with a holy strength. When the bearer is at full health, they will fire beams of white-hot energy from their nail.",
+        "notches": 3
+    },
+    {
+        "name": "Fragile Heart",
+        "description": "Increases the health of the bearer. This charm is fragile, and will break if its bearer is killed.",
+        "notches": 2
+    },
+    {
+        "name": "Unbreakable Heart",
+        "description": "Increases the health of the bearer. This charm is unbreakable.",
+        "notches": 2
+    },
+    {
+        "name": "Fragile Greed",
+        "description": "Causes the bearer to find more Geo when defeating enemies. This charm is fragile, and will break if its bearer is killed.",
+        "notches": 2
+    },
+    {
+        "name": "Unbreakable Greed",
+        "description": "Causes the bearer to find more Geo when defeating enemies. This charm is unbreakable.",
+        "notches": 2
+    },
+    {
+        "name": "Fragile Strength",
+        "description": "Strengthens the bearer, increasing the damage they deal to enemies with their nail. This charm is fragile, and will break if its bearer is killed.",
+        "notches": 3
+    },
+    {
+        "name": "Unbreakable Strength",
+        "description": "Strengthens the bearer, increasing the damage they deal to enemies with their nail. This charm is unbreakable.",
+        "notches": 2
+    },
+    {
+        "name": "Spell Twister",
+        "description": "Reduces the SOUL cost of casting spells.",
+        "notches": 2
+    },
+    {
+        "name": "Steady Body",
+        "description": "Keeps its bearer from recoiling backgrounds when they strike an enemy with a nail.",
+        "notches": 1
+    },
+    {
+        "name": "Heavy Blow",
+        "description": "Increases the force of the bearer's nail, causing enemies to recoil further when hit.",
+        "notches": 2
+    },
+    {
+        "name": "Quick Slash",
+        "description": "Allows the bearer to slash much more rapidly with their nail.",
+        "notches": 3
+    },
+    {
+        "name": "Longnail",
+        "description": "Increases the range of the bearer's nail.",
+        "notches": 2
+    },
+    {
+        "name": "Fury of the Fallen",
+        "description": "When close to death, the bearer's strength will increase.",
+        "notches": 2
+    },
+    {
+        "name": "Thorns of Agony",
+        "description": "When taking damage, sprout thorny vines that damage nearby foes.",
+        "notches": 1
+    },
+    {
+        "name": "Baldur Shell",
+        "description": "Protects its bearer with a hard shell while focusing SOUL.",
+        "notches": 2
+    },
+    {
+        "name": "Flukenest",
+        "description": "Transforms the Vengeful Spirit spell into a horge of volatile baby flukes.",
+        "notches": 3
+    },
+    {
+        "name": "Defender's Crest",
+        "description": "Causes the bearer to emit a heroic odour.",
+        "notches": 1
+    },
+    {
+        "name": "Glowing Womb",
+        "description": "Drains the SOUL of its bearer and uses it to birth hatchlings.",
+        "notches": 2
+    },
+    {
+        "name": "Quick Focus",
+        "description": "Increases the speed of focusing SOUL, allowing the bearer to heal faster.",
+        "notches": 3
+    },
+    {
+        "name": "Deep Focus",
+        "description": "The bearer will focus SOUL at a slower rate, but the healting effect will double.",
+        "notches": 4
+    },
+    {
+        "name": "Lifeblood Heart",
+        "description": "When resting, the bearer will gain a coating of lifeblood that protects from a modest amount of damage.",
+        "notches": 2
+    },
+    {
+        "name": "Lifeblood Core",
+        "description": "When resting the bearer will gain a coating of lifeblood that protects from a large amount of damage.",
+        "notches": 3
+    },
+    {
+        "name": "Joni's Blessing",
+        "description": "The bearer will have a healthier shell and can take more damage, but they will not be able to heal themselves by focusing SOUL.",
+        "notches": 4
+    },
+    {
+        "name": "Hiveblood",
+        "description": "Heals the bearer's wounds over time, allowing them to regain health without focusing SOUL.",
+        "notches": 4
+    },
+    {
+        "name": "Spore Shroom",
+        "description": "When focusing SOUL, emit a spore cloud that slowly damages enemies.",
+        "notches": 1
+    },
+    {
+        "name": "Sharp Shadow",
+        "description": "When using Shadow Dash, the bearer's body will sharpen and damage enemies.",
+        "notches": 2
+    },
+    {
+        "name": "Shape of Unn",
+        "description": "While focusing SOUL, the bearer will take on a new shape and can move freely to avoid enemies.",
+        "notches": 2
+    },
+    {
+        "name": "Nailmaster's Glory",
+        "description": "Increases the bearer's master of Nail Arts, allowing them to focus their power faster and unleash arts sooner.",
+        "notches": 1
+    },
+    {
+        "name": "Weaversong",
+        "description": "Summons weaverlings to give the lonely bearer from companionship and protection.",
+        "notches": 2
+    },
+    {
+        "name": "Dream Wielder",
+        "description": "Allows the bearer to charge the Dream Nail faster and collect more SOUL when striking goes.",
+        "notches": 1
+    },
+    {
+        "name": "Dreamshield",
+        "description": "Conjures a shield that follows the bearer and attempts to protect them.",
+        "notches": 3
+    },
+    {
+        "name": "Grimmchild",
+        "description": "Worn by those who take part in the Grimm Troupe's Ritual. The bearer must seek the Grimmkin and collect their flames. Uncollected flames will appear on the bearer's map.",
+        "notches": 2
+    },
+    {
+        "name": "Carefree Melody",
+        "description": "Contains a song of protection that may defend the bearer from damage.",
+        "notches": 3
+    },
+    {
+        "name": "Kingsoul",
+        "description": "Holy charm symbolising a union between higher beings. The bearer will slowly absorb the limitless SOUL contained within. Opens the way to a birthplace.",
+        "notches": 5
+    },
+    {
+        "name": "Void Heart",
+        "description": "Unifies the void under the bearer's will. This charm is a part of its bearer and cannot be unequipped.",
+        "notches": 0
+    }
+]
